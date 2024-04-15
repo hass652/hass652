@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Owais Raza</h1>
 <h3 align="center">Frontend Developer | Web Designing</h3>
 
+![banner](https://media.giphy.com/media/jWTUfNBZCJ5EkLL8kK/giphy.gif?cid=790b7611yygi4ybmp3ymj3zf6ztddmh2tmcp13ok06bt34ft&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 - 🌱 I’m currently learning **Aptech Learning Education**
 
 - 👯 I’m looking to collaborate on **Frontend Based Websites**
