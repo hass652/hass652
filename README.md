@@ -3,6 +3,10 @@
 
 ![banner](https://media.giphy.com/media/jWTUfNBZCJ5EkLL8kK/giphy.gif?cid=790b7611yygi4ybmp3ymj3zf6ztddmh2tmcp13ok06bt34ft&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="animated" />
+</p>
+
 - 🌱 I’m currently learning **Aptech Learning Education**
 
 - 👯 I’m looking to collaborate on **Frontend Based Websites**
